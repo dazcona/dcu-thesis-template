@@ -1,5 +1,3 @@
-# dcu-thesis-template
-
 Dublin City University's Dissertation Template
 =========================
 
